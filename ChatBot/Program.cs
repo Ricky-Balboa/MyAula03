@@ -8,7 +8,7 @@ namespace ChatBot
         {
             string question, response;
 
-            Console.WriteLine("Hello I'm ChatBot if you ask me questions i'll answer you ");
+            Console.WriteLine("Hello I'm ChatBot if you ask me questions i'll answer you.If you say exit, you can leave ");
             question = Console.ReadLine();
             int i = 0;
             do
